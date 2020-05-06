@@ -197,7 +197,9 @@ aside#lateral h2 {
     background-color: #606060;
     font-size: 13pt;
     color: white;
-    padding: 5px;
+    padding: 5px; 
+    margin-bottom: 0px; 
+    box-shadow: 1px 1px 1px #606060;     
 }
 footer#rodape {
     clear: both;
@@ -206,5 +208,12 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+video#video-1 {
+    width: 490px;       
+}
+video#video-2 {
+    width: 351px;           
+}
+
 
 
